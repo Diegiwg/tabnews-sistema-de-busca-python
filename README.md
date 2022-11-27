@@ -277,4 +277,4 @@
 >        file.write(json_dump(resultado))
 >```
 >
-> E assim, finalizamos nosso projetinho, e gora, voce tem um sistema basico de Buscas, que poderia facilmente ser adptado para outras API's e Sistemas, bastando compreender o valor de retorno das requisições inicias.
+> E assim, finalizamos nosso projetinho, e agora, voce tem um sistema basico de Buscas, que poderia facilmente ser adptado para outras API's e Sistemas, bastando compreender o valor de retorno das requisições inicias.
