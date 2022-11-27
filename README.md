@@ -278,5 +278,3 @@
 >```
 >
 > E assim, finalizamos nosso projetinho, e gora, voce tem um sistema basico de Buscas, que poderia facilmente ser adptado para outras API's e Sistemas, bastando compreender o valor de retorno das requisições inicias.
-
-> <img src="https://pixabay.com/get/g34e6905872eb3c14ad49c56124efc83c3d15b81f2aec58b77258f8f4fe9a87e7ef3963ec363d2b719e6a5fd25e44e1c6.svg" width="25"> Qualquer duvida, sugestão, ou correção, ficarei grato que seja postado nos comentarios. E obrigado por ler, fiz com carinho ^^
